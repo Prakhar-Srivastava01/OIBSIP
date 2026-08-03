@@ -57,6 +57,23 @@ OIBSIP/
 └── Task1_Iris_Classification.ipynb
 ```
 
+---
+
+# 📂 Internship Tasks
+
+## ✅ Task 1: Iris Flower Classification
+- Performed Exploratory Data Analysis (EDA)
+- Trained Logistic Regression and Random Forest models
+- Evaluated using Accuracy, Confusion Matrix, and Classification Report
+- Achieved 100% accuracy
+
+## ✅ Task 2: Unemployment Analysis with Python
+- Performed data cleaning and preprocessing
+- Analyzed region-wise and month-wise unemployment trends
+- Created time-series visualizations for major states
+- Compared Pre-COVID and Post-COVID unemployment rates
+- Built correlation heatmap and bar charts
+
 ## 👨‍💻 Author
 **Prakhar Srivastava**
 
